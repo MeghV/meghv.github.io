@@ -1,10 +1,10 @@
 $(document).ready(function() {
 
-	var scroll = new scroller().init();
+	// var scroll = new scroller().init();
 
-	$(window).resize(function() {
-		scroll 
-	});
+	// $(window).resize(function() {
+	// 	scroll 
+	// });
 	// $(window).scroll(function(e) {
 	// 	// store starting position
 		
