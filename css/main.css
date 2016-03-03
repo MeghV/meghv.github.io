@@ -35,6 +35,8 @@ animation: backgroundChange 10s ease infinite;
 
 */
 
+overflow-x: hidden;
+
 }
 
 @-webkit-keyframes backgroundChange {
