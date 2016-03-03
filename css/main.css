@@ -35,7 +35,6 @@ animation: backgroundChange 10s ease infinite;
 
 */
 
-overflow-x: hidden;
 
 }
 
@@ -285,7 +284,12 @@ h1 {
 
 	.main-image {
 		right: -50%;
+		overflow-x: hidden;
 	}
+}
+
+* {
+	overflow-x: hidden;
 }
 
 
