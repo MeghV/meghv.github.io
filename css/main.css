@@ -66,14 +66,16 @@ animation: backgroundChange 10s ease infinite;
 
 
 .slide {
-	height: 100%;
+	height: auto;
 	width: 100%;
 	position: relative;
+	min-height: 100%;
 	
 }
 
 .slide.home {
-	overflow: hidden;
+	height: 100% !important;
+	overflow: hidden !important;
 }
 
 .centered-text {
