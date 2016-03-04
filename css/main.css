@@ -69,6 +69,10 @@ animation: backgroundChange 10s ease infinite;
 	height: 100%;
 	width: 100%;
 	position: relative;
+	
+}
+
+.slide.home {
 	overflow: hidden;
 }
 
