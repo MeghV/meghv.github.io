@@ -244,6 +244,7 @@ h1 {
     position: absolute;
     top: 0px;
     right: 0px;
+    overflow-x: hidden;
 }
 
 
@@ -286,10 +287,6 @@ h1 {
 		right: -50%;
 		overflow-x: hidden;
 	}
-}
-
-* {
-	overflow-x: hidden;
 }
 
 
