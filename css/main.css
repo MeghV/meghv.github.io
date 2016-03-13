@@ -11,6 +11,9 @@ html, body {
 	padding: 0;
 	color: white;
 	font-family: 'Open Sans', sans-serif;
+	text-rendering: optimizeLegibility !important;
+  	-webkit-font-smoothing: antialiased !important;
+  	-moz-osx-font-smoothing: grayscale !important;
 }
 
 body {
